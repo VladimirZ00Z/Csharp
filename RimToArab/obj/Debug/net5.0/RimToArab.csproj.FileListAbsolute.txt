@@ -1,0 +1,16 @@
+C:\Users\Владимир\source\repos\RimToArab\bin\Debug\net5.0\RimToArab.exe
+C:\Users\Владимир\source\repos\RimToArab\bin\Debug\net5.0\RimToArab.deps.json
+C:\Users\Владимир\source\repos\RimToArab\bin\Debug\net5.0\RimToArab.runtimeconfig.json
+C:\Users\Владимир\source\repos\RimToArab\bin\Debug\net5.0\RimToArab.runtimeconfig.dev.json
+C:\Users\Владимир\source\repos\RimToArab\bin\Debug\net5.0\RimToArab.dll
+C:\Users\Владимир\source\repos\RimToArab\bin\Debug\net5.0\ref\RimToArab.dll
+C:\Users\Владимир\source\repos\RimToArab\bin\Debug\net5.0\RimToArab.pdb
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\RimToArab.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\RimToArab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\RimToArab.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\RimToArab.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\RimToArab.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\RimToArab.dll
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\ref\RimToArab.dll
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\RimToArab.pdb
+C:\Users\Владимир\source\repos\RimToArab\obj\Debug\net5.0\RimToArab.genruntimeconfig.cache
