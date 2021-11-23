@@ -1,0 +1,15 @@
+C:\Users\Владимир\source\repos\book\bin\Debug\net5.0\book.exe
+C:\Users\Владимир\source\repos\book\bin\Debug\net5.0\book.deps.json
+C:\Users\Владимир\source\repos\book\bin\Debug\net5.0\book.runtimeconfig.json
+C:\Users\Владимир\source\repos\book\bin\Debug\net5.0\book.runtimeconfig.dev.json
+C:\Users\Владимир\source\repos\book\bin\Debug\net5.0\book.dll
+C:\Users\Владимир\source\repos\book\bin\Debug\net5.0\ref\book.dll
+C:\Users\Владимир\source\repos\book\bin\Debug\net5.0\book.pdb
+C:\Users\Владимир\source\repos\book\obj\Debug\net5.0\book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\book\obj\Debug\net5.0\book.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\book\obj\Debug\net5.0\book.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\book\obj\Debug\net5.0\book.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\book\obj\Debug\net5.0\book.dll
+C:\Users\Владимир\source\repos\book\obj\Debug\net5.0\ref\book.dll
+C:\Users\Владимир\source\repos\book\obj\Debug\net5.0\book.pdb
+C:\Users\Владимир\source\repos\book\obj\Debug\net5.0\book.genruntimeconfig.cache
